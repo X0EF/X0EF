@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @X0EF
-- 👀 I’m interested in creating engaging platforms
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on node projects
-- 📫 How to reach me null
+- 🌱 I’m currently building projects with golang
+- I dont want to waste my healthy years
